@@ -1,0 +1,6 @@
+Revision history for Perl extension Wx::Widgets::CGI.
+
+0.01  Tue Sep 10 02:17:21 2002
+	- original version; created by h2xs 1.21 with options
+		-XA -n Wx::Widgets::CGI
+
